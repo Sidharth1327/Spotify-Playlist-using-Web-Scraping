@@ -56,14 +56,8 @@ Enjoy your personalized playlist!
 
 Contributions to the project are welcome! Feel free to raise issues, suggest improvements, or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Credits
 
 Special thanks to Spotify and Billboard for providing access to their APIs and data, and to the Spotipy and Beautiful Soup communities for their invaluable contributions to this project and Dr Angela Yu for giving more insights about the project.
 
----
-
-By implementing this project with a well-structured ReadME.md file, you can effectively showcase the key features, installation instructions, usage guide, and future possibilities to attract potential users and contributors to your GitHub repository. The use of different font sizes and creative organization enhances readability and makes the project's presentation visually appealing and informative.
